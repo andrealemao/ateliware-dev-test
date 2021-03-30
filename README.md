@@ -1,11 +1,13 @@
 # BACKEND
 
-## Project setup
+## Setup
 ```
+Acessar a pasta raiz do projeto via terminal e rodar o comando:
+
 npm install
 ```
 
-### Rodar o projeto
+### Subir o ambiente
 ```
 npm start
 ```
@@ -17,12 +19,14 @@ https://ateliware-dev-test-backend.herokuapp.com
 
 # FRONTEND
 
-## Project setup
+## Setup
 ```
+Acessar a pasta raiz do projeto via terminal e rodar o comando:
+
 npm install
 ```
 
-### Rodar o projeto
+### Subir o ambiente
 ```
 npm run serve
 ```
