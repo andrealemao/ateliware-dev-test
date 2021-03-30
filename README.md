@@ -1,9 +1,8 @@
 # BACKEND
 
 ## Setup
-```
 Acessar a pasta raiz do projeto via terminal e rodar o comando:
-
+```
 npm install
 ```
 
@@ -20,9 +19,8 @@ https://ateliware-dev-test-backend.herokuapp.com
 # FRONTEND
 
 ## Setup
-```
 Acessar a pasta raiz do projeto via terminal e rodar o comando:
-
+```
 npm install
 ```
 
